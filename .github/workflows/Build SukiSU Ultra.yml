@@ -239,4 +239,3 @@ jobs:
           echo "✅ repo工具安装完成"
 
       - name: "⬇️ Clone Kernel Source | 克隆内核源码"
-        run: 
